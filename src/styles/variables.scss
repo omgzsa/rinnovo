@@ -14,3 +14,8 @@ $heading-font-family: 'DM Serif Display';
     font-family: $heading-font-family, serif !important;
   }
 }
+
+.v-card__text,
+.v-card__title {
+  word-break: normal !important;
+}
