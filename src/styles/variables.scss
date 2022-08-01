@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&family=DM+Serif+Display&display=swap');
+
+$body-font-family: 'Archivo';
+$heading-font-family: 'DM Serif Display';
+
+.v-application {
+  font-family: $body-font-family, sans-serif !important;
+  .text-h1,
+  .text-h2,
+  .text-h3,
+  .subtitle-1,
+  .subtitle-2 {
+    // To pin point specific classes of some components
+    font-family: $heading-font-family, serif !important;
+  }
+}

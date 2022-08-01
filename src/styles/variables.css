@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&family=DM+Serif+Display&display=swap');
+.v-application {
+  font-family: 'Archivo', sans-serif !important;
+}
+
+.v-application .text-h1,
+.v-application .text-h2,
+.v-application .text-h3,
+.v-application .subtitle-1,
+.v-application .subtitle-2 {
+  font-family: 'DM Serif Display', serif !important;
+}
+
+.v-card__text,
+.v-card__title {
+  word-break: normal !important;
+}
+/*# sourceMappingURL=variables.css.map */
