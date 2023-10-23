@@ -1,5 +1,3 @@
-# pozsgaievi
-
 ## Project setup
 ```
 npm install
